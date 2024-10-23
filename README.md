@@ -32,3 +32,10 @@ Create a file named secret.key and store your Fernet key in it, which will be us
 Finally, execute the bot by running the following command:
 
    python bot.py
+## How to run 
+1. use command "/login username password" where username and password are the users lms username and password
+2. if you want to change the login credentials just use the /login command and enter new username and password
+3. Now use command  /startLMS to start the bot to analyse your lms calender for changes
+4. The bot will notify u through dm when u have recieved a new assignemnt or any other work
+   
+
