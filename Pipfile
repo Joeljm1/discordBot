@@ -8,6 +8,7 @@ name = "pypi"
 requests = "*"
 beautifulsoup4 = "*"
 selenium = "*"
+cryptography = "*"
 
 [dev-packages]
 
